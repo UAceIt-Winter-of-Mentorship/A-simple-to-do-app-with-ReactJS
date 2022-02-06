@@ -2,4 +2,5 @@
 
 ## Tech Stacks
 Frontend : HTML, CSS, JS (ES6), ReactJS, Material UI / Bootstrap <br/>
-Backend : NodeJS, Postman, MongoDB, Firebase
+Backend : NodeJS, MongoDB, Firebase
+Util(s) : Postman, Git, Figma
